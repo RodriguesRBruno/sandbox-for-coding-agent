@@ -1,0 +1,5 @@
+[project]
+name = "sandbox-for-coding-agent"
+version = "0.1.0"
+description = "Small sandbox repo to validate coding agents that handle PRs."
+requires-python = ">=3.9"
