@@ -3,7 +3,7 @@ import pytest
 
 
 def test_add():
-    assert calculator.add(2, 3) == 5  # nosec B101
+    assert calculator.add(2, 2) == 5  # nosec B101
 
 
 def test_subtract():
