@@ -15,3 +15,7 @@ def multiply(a, b):
 
 def divide(a, b):
     return a / b
+
+
+def power(base, exponent):
+    return base**exponent
