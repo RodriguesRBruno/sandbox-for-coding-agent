@@ -1,5 +1,5 @@
 def main():
-    print(f"The secret key is even safer; not mentioned here at all!!")
+    print("The secret key is even safer; not mentioned here at all!!")
 
 
 if __name__ == "__main__":
